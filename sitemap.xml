@@ -1,0 +1,42 @@
+Sitemap for www.drmcmcdonald.com
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.drmcmcdonald.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drmcmcdonald.com/writing</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drmcmcdonald.com/research</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drmcmcdonald.com/speaking</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drmcmcdonald.com/learning</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drmcmcdonald.com/podcasts</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.drmcmcdonald.com/shop</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
